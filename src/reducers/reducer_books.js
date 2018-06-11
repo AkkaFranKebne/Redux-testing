@@ -1,3 +1,5 @@
+//this reducer contains data that are used in the application
+
 export default function() {
   return [
     { title: 'Book 1', description: 'Shipping 2-3 days in Sweden. 3-6 days outside Sweden.' },
